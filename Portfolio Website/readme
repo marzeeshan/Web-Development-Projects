@@ -1,0 +1,11 @@
+Portfolio Website:
+A fully responsive portfolio website that outlines my background, my skills, projects, experiences and contact information.
+Includes custom fonts from Google Fonts and custom icons from Font Awesome.
+An animated nav link, which changes when clicked on. With an animated nav bar.
+A scroll back to top button which scrolls the page back to the top when clicked.
+Custom shape creations such as the diamond shape in the skills section, timeline in the experience section and the scroll back to top button.
+Scroll animations only occurs once every time the page is loaded/reloaded.
+Also includes scroll animations and a pulse animation on the scroll back to top button.
+External icon links change color to their respective colors when hovered over and redirect to their respective site in a new tab when clicked on.
+A mail-to icon that allows the user to directly send an email to my personal email address.
+Every component in the website is responsive, it changes as the screen size changes for example from a laptop to a tablet to a smartphone. 
