@@ -1,0 +1,6 @@
+Day Night Medias:
+A fully responsive photo gallery website created for a company called Day Night Medias.
+This website was built to showcase some of the company's work.
+This includes an image gallery that uses a grid system. The grid is fully responsive and changes in size as the screen size changes.
+Inculdes a navigation menu as the screen size reduces.
+Includes a text link button, that changes color when hovered over and redirects to the company's Instagram page in a new tab when clicked.
