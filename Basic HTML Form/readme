@@ -1,3 +1,4 @@
+Basic HTML Form:
 This is a basic HTML form, that lets the user fill out a form and submit it.
 Some of the fields are required: First Name, Last Name, Email and Password.
 Email requires a proper email format for example"johnsmith@gmail.com".
