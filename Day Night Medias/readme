@@ -4,3 +4,4 @@ This website was built to showcase some of the company's work.
 This includes an image gallery that uses a grid system. The grid is fully responsive and changes in size as the screen size changes.
 Inculdes a navigation menu as the screen size reduces.
 Includes a text link button, that changes color when hovered over and redirects to the company's Instagram page in a new tab when clicked.
+Also includes one of the company's embed Youtube video, with controls such as play, pause, full screen, share and a link to the Youtube Page for the video.
